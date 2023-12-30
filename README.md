@@ -24,7 +24,7 @@ I’m @TEPA6ANT
 - [wa_war](https://gamer-lab.com/rus/bsp_goldsrc/wa_war)
 - [dm_rusbaza_2](https://gamer-lab.com/rus/bsp_goldsrc/dm_rusbaza_2)
 - [dm_bazatera](https://gamebanana.com/mods/82471)
-- [dm_ruins_cz](https://gamer-lab.com/rus/bsp_goldsrc/dm_ruins_cz)
+- [dm_ruins_cz](https://gamer-lab.com/rus/bsp_goldsrc/dm_ruins_cz)    //only for Condition Zero
 - [dm_deadpre](https://gamebanana.com/mods/82515)
 - [ka_verybadmap](https://gamebanana.com/mods/96004)
 - [Micro Counter-Strike (Counter Attack) - Remake Maps Pack](https://www.moddb.com/mods/micro-counter-strike-counter-attack-remake-map-pack)
