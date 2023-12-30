@@ -11,9 +11,10 @@ I’m @TEPA6ANT
 - [Freeman with a BOX](https://www.moddb.com/mods/freeman-with-a-box)
 
 -Wolfenstein 3D (ECWolf) mods-
-- YASHHER    //I deleted this mod for two reasons: 
-              //1. I didn't like the mod myself; 
-              //2. An unknown internet user rudely asked me to delete it (I don't know what he didn't like about this mod);
+- YASHHER
+- - I deleted this mod for two reasons: 
+- - 1. I didn't like the mod myself; 
+- - 2. An unknown internet user rudely asked me to delete it (I don't know what he didn't like about this mod);
 - [Wolfenstein 3D: Red Cross](https://www.moddb.com/mods/wolf3d-red-cross)
 
 -Counter-Strike 1.6/CZ Maps-
