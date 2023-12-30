@@ -46,6 +46,9 @@ I’m @TEPA6ANT
 - [0cean_2x2](https://gamebanana.com/mods/59089)   //with BIGs
 - [0cean_4x4](https://gamebanana.com/mods/482085)
 
+-Half-Life Models-
+- [Half-Life Barney Pack](https://www.moddb.com/games/half-life/addons/half-life-barneypack)
+
 -Contagion Maps-
 - [Wolfenstein 3D - E1M1 и E1M10](https://steamcommunity.com/sharedfiles/filedetails/?id=1824592529)
 
