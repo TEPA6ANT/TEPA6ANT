@@ -7,7 +7,7 @@ I’m @TEPA6ANT
 - [EquibBlock Arcade](https://tepa6ant.itch.io/equibblock-arcade)
 
 -Half-Life Mods-
-- [No Life 4 X](https://www.moddb.com/mods/no-life-4-x)
+- [No LIfe 4 X](https://www.moddb.com/mods/no-life-4-x)
 - [Freeman with a BOX](https://www.moddb.com/mods/freeman-with-a-box)
 
 -Wolfenstein 3D (ECWolf) mods-
