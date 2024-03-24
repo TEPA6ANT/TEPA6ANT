@@ -5,6 +5,7 @@ I’m @TEPA6ANT
 -Games-
 - [Master Theft TVs](https://store.steampowered.com/app/1706150/Master_Theft_TVs/)    //Powered by Godot Engine 3.3.2
 - [EquibBlock Arcade](https://tepa6ant.itch.io/equibblock-arcade)    //Powered by GameMaker Studio 2 and Xtreme3D 4.0.0 alpha1
+- [Elections of the dead](https://tepa6ant.itch.io/election)    //Powered by GameMaker Studio 2
 
 -Half-Life Mods-
 - [No LIfe 4 X](https://www.moddb.com/mods/no-life-4-x)
