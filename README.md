@@ -5,7 +5,9 @@ I’m @TEPA6ANT
 -Games-
 - [Master Theft TVs](https://store.steampowered.com/app/1706150/Master_Theft_TVs/)    //Powered by Godot Engine 3.3.2
 - [EquibBlock Arcade](https://tepa6ant.itch.io/equibblock-arcade)    //Powered by GameMaker Studio 2 and Xtreme3D 4.0.0 alpha1
+- - A little video. Just for the potfolio.
 - [Elections of the dead](https://tepa6ant.itch.io/election)    //Powered by GameMaker Studio 2
+- - A little video game parody of Hong Kong 97
 - [Shit Story LD](https://steamcommunity.com/sharedfiles/filedetails/?id=3208062754)    //Powered by AppGameKit 2 (with Visual Editor)
 - - This game is a joke, and no special effort was put into making it.
 
