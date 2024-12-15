@@ -10,6 +10,7 @@ I’m @TEPA6ANT
 - - A parody of Hong Kong 97
 - [Shit Story LD](https://tepa6ant.itch.io/shit) [(AGK Steam Workshop)](https://steamcommunity.com/sharedfiles/filedetails/?id=3208062754)    //Powered by AppGameKit 2 (with Visual Editor)
 - - This game is a joke, and no special effort was put into making it.
+- [Genocide: The Story of One of the Last Lizhums](https://tepa6ant.itch.io/genocide)    //Powered by Godot Engine 3.5.2
 
 -Half-Life Mods-
 - [No LIfe 4 X](https://www.moddb.com/mods/no-life-4-x)
