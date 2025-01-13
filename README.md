@@ -72,7 +72,7 @@ I’m @TEPA6ANT
 - [Capital! (Mutation Mode)](https://steamcommunity.com/sharedfiles/filedetails/?id=3026202770)
 
 -Hatred Maps-
-- [FCK SusComNadzor!](https://steamcommunity.com/sharedfiles/filedetails/?id=3026202770)
+- [FCK SusComNadzor!](https://steamcommunity.com/sharedfiles/filedetails/?id=3406054416)
 
 And i hate git, penguins, linux community, macintosh, apple(company, not fruit), various game jams, olympiads, soups, .. \*many other things\* .., and this place.
 
