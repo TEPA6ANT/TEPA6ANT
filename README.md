@@ -37,6 +37,8 @@ I’m @TEPA6ANT
 - [ka_verybadmap](https://gamebanana.com/mods/96004)
 - [Micro Counter-Strike (Counter Attack) - Remake Maps Pack](https://www.moddb.com/mods/micro-counter-strike-counter-attack-remake-map-pack)
 - [cs_impuls](https://gamebanana.com/mods/566651)
+- [cs_jcult](https://gamebanana.com/mods/600269)
+- [de_bridge_tep](https://gamebanana.com/mods/617063)
 
 -Counter-Strike Source Maps-
 - [fy_x](https://gamer-lab.com/rus/bsp_source/fy_x)
