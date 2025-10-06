@@ -17,6 +17,7 @@ I’m @TEPA6ANT
 -Half-Life Mods-
 - [No LIfe 4 X](https://www.moddb.com/mods/no-life-4-x)
 - [Freeman with a BOX](https://www.moddb.com/mods/freeman-with-a-box)
+- [Gucenko Loh](https://www.moddb.com/mods/gucenko-loh)
 
 -Wolfenstein 3D (ECWolf) mods-
 - YASHHER
