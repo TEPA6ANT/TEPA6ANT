@@ -40,6 +40,7 @@ I’m @TEPA6ANT
 - [cs_impuls](https://gamebanana.com/mods/566651)
 - [cs_jcult](https://gamebanana.com/mods/600269)
 - [de_bridge_tep](https://gamebanana.com/mods/617063)
+- [de_nightradio](https://gamebanana.com/mods/644828)
 
 -Counter-Strike Source Maps-
 - [fy_x](https://gamer-lab.com/rus/bsp_source/fy_x)
