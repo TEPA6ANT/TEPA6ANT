@@ -21,9 +21,7 @@ I’m @TEPA6ANT
 
 -Wolfenstein 3D (ECWolf) mods-
 - YASHHER
-- - I deleted this mod for two reasons: 
-- - 1. I didn't like what I was doing and thought I did cringe; 
-- - 2. An unknown internet user rudely asked me to delete it (I don't know what he didn't like about this mod);
+- - I deleted this mod from moddb, but you can find it on the Internet.
 - [Wolfenstein 3D: Red Cross](https://www.moddb.com/mods/wolf3d-red-cross)
 
 -Counter-Strike 1.6/CZ Maps-
